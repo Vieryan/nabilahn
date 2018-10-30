@@ -1,0 +1,11 @@
+{
+  "name": "on",
+  "version": "1.0.0",
+  "description": "Vieryan",
+  "main": "index.js",
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
